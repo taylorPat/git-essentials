@@ -7,7 +7,7 @@ git config --global user.email "your@mail.com"
 ```
 
 ## Essentials
-``
+```console
 # Initialize a git repo to track changes inside a folder (repository)
 git init
 
